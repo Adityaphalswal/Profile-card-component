@@ -47,7 +47,7 @@ body {
 .background{
     height: 35%;
     width: 100%;
-    background: url("/images/bg-pattern-card.svg");
+    background: url("images/bg-pattern-card.svg");
     background-size: cover;
 }
 .victor{
@@ -58,7 +58,7 @@ body {
     position: relative;
     top: -15%;
     margin: 0 auto;
-    background: url("/images/image-victor.jpg");
+    background: url("images/image-victor.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
